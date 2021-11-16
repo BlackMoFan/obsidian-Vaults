@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "bea6da6288abd598",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7fb0847a834efc1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "000 Index.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5a1184883a4ad63a",
+    "type": "split",
+    "children": [
+      {
+        "id": "726664976a231baf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da1bda3909df9552",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ebe00d5dc0f02ae6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fcd36d11c04e268d",
+    "type": "split",
+    "children": [
+      {
+        "id": "c16500b5d5b11b78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39335a949c87b06e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "000 Index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e7fb0847a834efc1",
+  "lastOpenFiles": [
+    "000 Index.md",
+    "004 Programming languages, compilers, and text editors or IDEs.md",
+    "0041 Text editors.md",
+    "00411 Vim.md",
+    "aaa Data Analytics.md",
+    "aaaa - Getting Grounded on Analytics.md",
+    "008 Web development.md",
+    "0042 Programming languages.md",
+    "00421 Java.md",
+    "Text editors.md"
+  ]
+}
