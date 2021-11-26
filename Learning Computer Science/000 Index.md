@@ -24,6 +24,6 @@ This is my index for Learning Computer Science Notes
 
 ---
 ## Data-related study
-(will edit if there are correction on the order of learning path)
+(will edit if there are corrections on the order of learning path)
 (use letters)
 aaa - [[aaa Data Analytics]]

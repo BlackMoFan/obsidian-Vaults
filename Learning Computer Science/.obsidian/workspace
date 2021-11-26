@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0080013 Introduction to Mozilla Developer Network.md",
+            "file": "008000 Full-Stack Engineer Path from Codecademy.md",
             "mode": "preview"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0080013 Introduction to Mozilla Developer Network.md",
+            "file": "008000 Full-Stack Engineer Path from Codecademy.md",
             "mode": "source"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0080013 Introduction to Mozilla Developer Network.md",
+                "file": "008000 Full-Stack Engineer Path from Codecademy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,17 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c4107728d0015d7c",
+  "active": "d2e4086586dc6b62",
   "lastOpenFiles": [
-    "0080013 Introduction to Mozilla Developer Network.md",
     "008000 Full-Stack Engineer Path from Codecademy.md",
-    "0080012 Recommended Reading.md",
-    "0080011  JavaScript Versions ES6 and Before.md",
     "008 Web development.md",
     "000 Index.md",
-    "0080010 JavaScript - All the Cool Kids Are Doing It.md",
     "008009 Introduction - JavaScript Syntax, Part 1.md",
-    "008008 Review - Getting Started with Full-Stack Engineering.md",
-    "008007 What are the Differences Between Front-End and Back-End Engineering - Video.md"
+    "00800013 Introduction to Mozilla Developer Network.md",
+    "00800012 Recommended Reading.md",
+    "00800011  JavaScript Versions ES6 and Before.md",
+    "00800010 JavaScript - All the Cool Kids Are Doing It.md",
+    "0080009 Introduction - JavaScript Syntax, Part 1.md",
+    "0080008 Review - Getting Started with Full-Stack Engineering.md"
   ]
 }
