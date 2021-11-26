@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0080010 JavaScript - All the Cool Kids Are Doing It.md",
+            "file": "0080013 Introduction to Mozilla Developer Network.md",
             "mode": "preview"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0080010 JavaScript - All the Cool Kids Are Doing It.md",
+            "file": "0080013 Introduction to Mozilla Developer Network.md",
             "mode": "source"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0080010 JavaScript - All the Cool Kids Are Doing It.md",
+                "file": "0080013 Introduction to Mozilla Developer Network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "c4107728d0015d7c",
   "lastOpenFiles": [
-    "0080010 JavaScript - All the Cool Kids Are Doing It.md",
+    "0080013 Introduction to Mozilla Developer Network.md",
     "008000 Full-Stack Engineer Path from Codecademy.md",
+    "0080012 Recommended Reading.md",
+    "0080011  JavaScript Versions ES6 and Before.md",
+    "008 Web development.md",
+    "000 Index.md",
+    "0080010 JavaScript - All the Cool Kids Are Doing It.md",
     "008009 Introduction - JavaScript Syntax, Part 1.md",
     "008008 Review - Getting Started with Full-Stack Engineering.md",
-    "008007 What are the Differences Between Front-End and Back-End Engineering - Video.md",
-    "008006 What Does a Software Engineer Do.md",
-    "008005 What is Programming.md",
-    "008004 Introduction  Getting Started with Full-Stack Engineering.md",
-    "008003 Community Resources.md",
-    "008002 Helpful Resources.md"
+    "008007 What are the Differences Between Front-End and Back-End Engineering - Video.md"
   ]
 }

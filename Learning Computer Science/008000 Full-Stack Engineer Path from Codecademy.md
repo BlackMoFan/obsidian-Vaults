@@ -15,3 +15,6 @@ Getting Started
 JavaScript
 [[008009 Introduction - JavaScript Syntax, Part 1]]
 [[0080010 JavaScript - All the Cool Kids Are Doing It]]
+[[0080011  JavaScript Versions ES6 and Before]]
+[[0080012 Recommended Reading]]
+[[0080013 Introduction to Mozilla Developer Network]]
