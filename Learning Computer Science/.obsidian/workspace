@@ -4,15 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "e7fb0847a834efc1",
+        "id": "d2e4086586dc6b62",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0081110 Line Breaks.md",
+            "file": "0080010 JavaScript - All the Cool Kids Are Doing It.md",
+            "mode": "preview"
+          }
+        },
+        "group": "2190e116f051ea01"
+      },
+      {
+        "id": "c4107728d0015d7c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "0080010 JavaScript - All the Cool Kids Are Doing It.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "2190e116f051ea01"
       }
     ],
     "direction": "vertical"
@@ -68,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0081110 Line Breaks.md",
+                "file": "0080010 JavaScript - All the Cool Kids Are Doing It.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e7fb0847a834efc1",
+  "active": "c4107728d0015d7c",
   "lastOpenFiles": [
-    "0081110 Line Breaks.md",
-    "00811 HTML.md",
-    "008119 Styling Text.md",
-    "008118 Displaying Text.md",
-    "008117 Attributes.md",
-    "008116 Divs.md",
-    "008115 Headings.md",
-    "008114 HTML Structure.md",
-    "0081 Frontend.md",
-    "008 Web development.md"
+    "0080010 JavaScript - All the Cool Kids Are Doing It.md",
+    "008000 Full-Stack Engineer Path from Codecademy.md",
+    "008009 Introduction - JavaScript Syntax, Part 1.md",
+    "008008 Review - Getting Started with Full-Stack Engineering.md",
+    "008007 What are the Differences Between Front-End and Back-End Engineering - Video.md",
+    "008006 What Does a Software Engineer Do.md",
+    "008005 What is Programming.md",
+    "008004 Introduction  Getting Started with Full-Stack Engineering.md",
+    "008003 Community Resources.md",
+    "008002 Helpful Resources.md"
   ]
 }
