@@ -29,10 +29,10 @@ To do:
 
 Editor Content:
 
-console.log('JavaScript')
-console.log(2011)
-console.log('Woohoo! I love to code! #codecademy')
-console.log(20.49)
+	console.log('JavaScript')
+	console.log(2011)
+	console.log('Woohoo! I love to code! #codecademy')
+	console.log(20.49)
 
 Community Forums:
 [When should you use single quotes or double quotes for strings?](https://discuss.codecademy.com/t/when-should-you-use-single-quotes-or-double-quotes-for-strings/489264)

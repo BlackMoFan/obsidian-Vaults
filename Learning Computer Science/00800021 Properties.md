@@ -15,7 +15,8 @@ To do:
 		'Teaching the world how to code'
 		
 Editor content:
-1. console.log('Teaching the world how to code'.length);
+
+	console.log('Teaching the world how to code'.length);
 
 Community Forums:
 [Why would the length of a sentence be useful to know?](https://discuss.codecademy.com/t/why-would-the-length-of-a-sentence-be-useful-to-know/489725)

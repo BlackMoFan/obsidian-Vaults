@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00800022 Methods.md",
+            "file": "00800028 Create a Variable - const.md",
             "mode": "preview"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00800022 Methods.md",
+            "file": "00800028 Create a Variable - const.md",
             "mode": "source"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00800022 Methods.md",
+                "file": "00800028 Create a Variable - const.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "c4107728d0015d7c",
   "lastOpenFiles": [
-    "00800022 Methods.md",
+    "00800028 Create a Variable - const.md",
     "008000 Full-Stack Engineer Path from Codecademy.md",
+    "00800027 Create a Variable - let.md",
+    "00800026 Create a Variable - var.md",
+    "00800025 Variables.md",
+    "00800024 Review.md",
+    "00800023 Built-in Objects.md",
+    "00800022 Methods.md",
     "00800021 Properties.md",
-    "00800020 String Concatenation.md",
-    "00800019 Arithmetic Operators.md",
-    "00800018 Data Types.md",
-    "00800017 Comments.md",
-    "00800016 Console.md",
-    "00800015 What is JavaScript.md",
-    "0080005 What is Programming.md"
+    "00800020 String Concatenation.md"
   ]
 }

@@ -32,10 +32,10 @@ To do:
 	
 Editor content:
 
-console.log(20 + 3.5);
-console.log(2021 - 1969);
-console.log(65 / 240);
-console.log(0.2708 * 100);
+	console.log(20 + 3.5);
+	console.log(2021 - 1969);
+	console.log(65 / 240);
+	console.log(0.2708 * 100);
 
 Community Forums:
 [What is the difference between printing 3 + 4 and '3 + 4'?](https://discuss.codecademy.com/t/what-is-the-difference-between-printing-3-4-and-3-4/489337)

@@ -8,6 +8,8 @@ Since JavaScript remains at the core of web development, it’s often the first 
 
 In this lesson, you will learn introductory coding concepts including data types and built-in objects—essential knowledge for all aspiring developers. Make sure to take notes and pace yourself. This foundation will set you up for understanding the more complex concepts you’ll encounter later.
 
+[Concept Overview](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path/tracks/fscp-javascript-syntax-part-i/modules/fecp-learn-javascript-syntax-introduction/cheatsheet)
+
 Community Forums:
 [What are some examples that can be made with JavaScript?](https://discuss.codecademy.com/t/what-are-some-examples-of-what-javascript-can-be-used-to-make/486847)
 [How are Java and JavaScript different? Which should I learn?](https://www.youtube.com/watch?v=Wpeym1_lmPo)

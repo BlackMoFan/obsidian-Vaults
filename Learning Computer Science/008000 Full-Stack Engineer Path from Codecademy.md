@@ -19,7 +19,7 @@ JavaScript Overview
 [[00800012 Recommended Reading]]
 [[00800013 Introduction to Mozilla Developer Network]]
 [[00800014 MDN JavaScript]]
-JavaScript
+Introduction to JavaScript
 [[00800015 What is JavaScript]]
 [[00800016 Console]]
 [[00800017 Comments]]
@@ -28,3 +28,10 @@ JavaScript
 [[00800020 String Concatenation]]
 [[00800021 Properties]]
 [[00800022 Methods]]
+[[00800023 Built-in Objects]]
+[[00800024 Review]]
+Variables
+[[00800025 Variables]]
+[[00800026 Create a Variable - var]]
+[[00800027 Create a Variable - let]]
+[[00800028 Create a Variable - const]]

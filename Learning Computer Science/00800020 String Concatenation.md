@@ -20,8 +20,8 @@ To do:
 
 Editor content:
 
-console.log('Hello' + 'World');
-console.log('Hello' + ' ' + 'World');
+	console.log('Hello' + 'World');
+	console.log('Hello' + ' ' + 'World');
 
 Community Forums:
 [Why would we use string concatenation?](https://discuss.codecademy.com/t/why-would-we-use-string-concatenation/489677)
