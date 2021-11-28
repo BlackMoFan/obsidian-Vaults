@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "008000 Full-Stack Engineer Path from Codecademy.md",
+            "file": "00800022 Methods.md",
             "mode": "preview"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "008000 Full-Stack Engineer Path from Codecademy.md",
+            "file": "00800022 Methods.md",
             "mode": "source"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "008000 Full-Stack Engineer Path from Codecademy.md",
+                "file": "00800022 Methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,17 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d2e4086586dc6b62",
+  "active": "c4107728d0015d7c",
   "lastOpenFiles": [
+    "00800022 Methods.md",
     "008000 Full-Stack Engineer Path from Codecademy.md",
-    "008 Web development.md",
-    "000 Index.md",
-    "008009 Introduction - JavaScript Syntax, Part 1.md",
-    "00800013 Introduction to Mozilla Developer Network.md",
-    "00800012 Recommended Reading.md",
-    "00800011  JavaScript Versions ES6 and Before.md",
-    "00800010 JavaScript - All the Cool Kids Are Doing It.md",
-    "0080009 Introduction - JavaScript Syntax, Part 1.md",
-    "0080008 Review - Getting Started with Full-Stack Engineering.md"
+    "00800021 Properties.md",
+    "00800020 String Concatenation.md",
+    "00800019 Arithmetic Operators.md",
+    "00800018 Data Types.md",
+    "00800017 Comments.md",
+    "00800016 Console.md",
+    "00800015 What is JavaScript.md",
+    "0080005 What is Programming.md"
   ]
 }
