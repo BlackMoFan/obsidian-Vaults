@@ -1,3 +1,6 @@
 # Storage for Obsidian Notes
+[Obsidian](https://obsidian.md/)
 ---
-## If my note was, in any way, able to aid you, kindly star this repository.
+## If my notes were, in any way, able to help you, kindly star this repository.
+🐲
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2336BCF7&center=true&vCenter=true&lines=Support+Open-source)](https://git.io/typing-svg)
