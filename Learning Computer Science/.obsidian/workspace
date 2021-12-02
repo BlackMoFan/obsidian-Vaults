@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00800038 Dog Years.md",
+            "file": "00800040 If Statement.md",
             "mode": "preview"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00800038 Dog Years.md",
+            "file": "00800040 If Statement.md",
             "mode": "source"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00800038 Dog Years.md",
+                "file": "00800040 If Statement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "2834f6789dfac234",
   "lastOpenFiles": [
-    "00800038 Dog Years.md",
+    "00800040 If Statement.md",
     "008000 Full-Stack Engineer Path from Codecademy.md",
+    "00800039 What are Conditional Statements.md",
+    "00800015 What is JavaScript.md",
     "00800037 Kelvin Weather.md",
+    "00800038 Dog Years.md",
     "008115 Headings.md",
     "00800036 Recommended Reading.md",
     "00800012 Recommended Reading.md",
-    "00800035 Quiz.md",
-    "00800034 Review Variables.md",
-    "00800032 String Interpolation.md",
-    "008 Web development.md"
+    "00800035 Quiz.md"
   ]
 }
