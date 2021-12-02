@@ -41,3 +41,11 @@ Variables
 [[00800032 String Interpolation]]
 [[00800033 typeof operator]]
 [[00800034 Review Variables]]
+Quiz
+[[00800035 Quiz]]
+JavaScript & JQuery, Chapter 1
+[[00800036 Recommended Reading]]
+Kelvin Weather
+[[00800037 Kelvin Weather]]
+Dog Years
+[[00800038 Dog Years]]

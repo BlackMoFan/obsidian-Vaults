@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "008000 Full-Stack Engineer Path from Codecademy.md",
+            "file": "00800038 Dog Years.md",
             "mode": "preview"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "008000 Full-Stack Engineer Path from Codecademy.md",
+            "file": "00800038 Dog Years.md",
             "mode": "source"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "008000 Full-Stack Engineer Path from Codecademy.md",
+                "file": "00800038 Dog Years.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,17 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c4107728d0015d7c",
+  "active": "2834f6789dfac234",
   "lastOpenFiles": [
+    "00800038 Dog Years.md",
     "008000 Full-Stack Engineer Path from Codecademy.md",
+    "00800037 Kelvin Weather.md",
+    "008115 Headings.md",
+    "00800036 Recommended Reading.md",
+    "00800012 Recommended Reading.md",
+    "00800035 Quiz.md",
     "00800034 Review Variables.md",
     "00800032 String Interpolation.md",
-    "008 Web development.md",
-    "000 Index.md",
-    "00800033 typeof operator.md",
-    "00800031 String Concatenation with Variables.md",
-    "00800028 Create a Variable - const.md",
-    "00800029 Mathematical Assignment Operators.md",
-    "00800030 The Increment and Decrement Operator.md"
+    "008 Web development.md"
   ]
 }
