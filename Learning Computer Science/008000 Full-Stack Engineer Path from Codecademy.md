@@ -57,3 +57,4 @@ Conditional Statements
 [[00800040 If Statement]]
 [[00800041 If...Else Statements]]
 [[00800042 Comparison Operators]]
+[[00800043 Logical Operators]]
