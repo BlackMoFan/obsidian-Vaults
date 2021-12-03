@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00800040 If Statement.md",
+            "file": "001 About computers - general knowledge.md",
             "mode": "preview"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00800040 If Statement.md",
+            "file": "001 About computers - general knowledge.md",
             "mode": "source"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00800040 If Statement.md",
+                "file": "001 About computers - general knowledge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +101,7 @@
   },
   "active": "2834f6789dfac234",
   "lastOpenFiles": [
+    "001 About computers - general knowledge.md",
     "00800040 If Statement.md",
     "008000 Full-Stack Engineer Path from Codecademy.md",
     "00800039 What are Conditional Statements.md",
@@ -109,7 +110,6 @@
     "00800038 Dog Years.md",
     "008115 Headings.md",
     "00800036 Recommended Reading.md",
-    "00800012 Recommended Reading.md",
-    "00800035 Quiz.md"
+    "00800012 Recommended Reading.md"
   ]
 }
