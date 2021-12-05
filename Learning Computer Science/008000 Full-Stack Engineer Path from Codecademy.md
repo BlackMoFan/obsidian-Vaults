@@ -58,3 +58,13 @@ Conditional Statements
 [[00800041 If...Else Statements]]
 [[00800042 Comparison Operators]]
 [[00800043 Logical Operators]]
+[[00800044 Truthy and Falsy]]
+[[00800045 Truthy and Falsy Assignment]]
+[[00800046 Ternary Operator]]
+[[00800047 Else If Statements]]
+[[00800048 The switch keyword]]
+[[00800049 Review]]
+Quiz
+[[00800050 Quiz]]
+JavaScript & JQuery Chapter 4
+[[00800051 Recommended Reading]]
