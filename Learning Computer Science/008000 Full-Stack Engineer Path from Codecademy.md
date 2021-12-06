@@ -1,9 +1,12 @@
 Links:  [[008 Web development]]
 # Full-Stack Engineer Path from Codecademy
+
+### [Your guide to becoming a full-stack engineer](https://www.codecademy.com/career-change-guide/full-stack-engineer-career-path)
 ---
 [[0080001 Welcome]]
 [[0080002 Helpful Resources]]
 [[0080003 Community Resources]]
+
 ---
 Getting Started
 [[0080004 Introduction - Getting Started with Full-Stack Engineering]]
