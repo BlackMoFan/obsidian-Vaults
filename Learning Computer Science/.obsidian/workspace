@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "008000 Full-Stack Engineer Path from Codecademy.md",
+            "file": "00800055 Function Declarations.md",
             "mode": "preview"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "008000 Full-Stack Engineer Path from Codecademy.md",
+            "file": "00800055 Function Declarations.md",
             "mode": "source"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "008000 Full-Stack Engineer Path from Codecademy.md",
+                "file": "00800055 Function Declarations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "2834f6789dfac234",
   "lastOpenFiles": [
+    "00800055 Function Declarations.md",
     "008000 Full-Stack Engineer Path from Codecademy.md",
+    "00800054 What are functions.md",
+    "00800054 Functions.md",
+    "00800052 Magic Eight Ball.md",
+    "00800053 Race Day.md",
     "00800051 Recommended Reading.md",
     "00800036 Recommended Reading.md",
     "00800050 Quiz.md",
-    "00800049 Review.md",
-    "00800048 The switch keyword.md",
-    "00800047 Else If Statements.md",
-    "00800046 Ternary Operator.md",
-    "00800045 Truthy and Falsy Assignment.md",
-    "00800044 Truthy and Falsy.md"
+    "00800049 Review.md"
   ]
 }
