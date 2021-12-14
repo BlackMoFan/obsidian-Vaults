@@ -5,32 +5,37 @@ Links:  [[008 Web development]]
 
 ---
 **Welcome to the Full-Stack Engineer Path**
+*Getting Started*
 - [[0080001 Welcome]]
 - [[0080002 Helpful Resources]]
 - [[0080003 Community Resources]]
 
 ---
 **Getting Started with Full-Stack Engineering**
+*Introduction - Getting Started with Full-Stack Engineering*
 - [[0080004 Introduction - Getting Started with Full-Stack Engineering]]
+
+*Introduction to Software Engineering*
 - [[0080005 What is Programming]]
 - [[0080006 What Does a Software Engineer Do - Video]]
 - [[0080007 What are the Differences Between Front-End and Back-End Engineering - Video]]
+
+*Review - Getting Started with Full-Stack Engineering*
 - [[0080008 Review - Getting Started with Full-Stack Engineering]]
 
 ---
 **JavaScript Syntax, Part 1**
+*Introduction: JavaScript Syntax, Part 1*
 - [[0080009 Introduction - JavaScript Syntax, Part 1]]
 
----
-**Introduction to Programming with JavaScript**
+*Introduction to Programming with JavaScript*
 - [[00800010 JavaScript - All the Cool Kids Are Doing It]]
 - [[00800011  JavaScript Versions ES6 and Before]]
 - [[00800012 Recommended Reading]]
 - [[00800013 Introduction to Mozilla Developer Network]]
 - [[00800014 MDN JavaScript]]
 
----
-**Learn JavaScript Syntax:  Introduction**
+*Learn JavaScript Syntax:  Introduction*
 - Introduction to JavaScript
 	- [[00800015 What is JavaScript]]
 	- [[00800016 Console]]
@@ -53,7 +58,7 @@ Links:  [[008 Web development]]
 	- [[00800032 String Interpolation]]
 	- [[00800033 typeof operator]]
 	- [[00800034 Review Variables]]
-- Quiz
+- Quiz - Introduction to JavaScript
 	- [[00800035 Quiz]]
 - JavaScript & JQuery, Chapter 1
 	- [[00800036 Recommended Reading]]
@@ -62,8 +67,7 @@ Links:  [[008 Web development]]
 - Dog Years - Project
 	- [[00800038 Dog Years]]
 
----
-**Learn JavaScript Syntax:  Conditionals**
+*Learn JavaScript Syntax:  Conditionals*
 - Conditional Statements
 	- [[00800039 What are Conditional Statements]]
 	- [[00800040 If Statement]]
@@ -85,8 +89,7 @@ Links:  [[008 Web development]]
 - Race Day - Project
 	- [[00800053 Race Day]]
 
----
-**Learn JavaScript Syntax:  Functions**
+*Learn JavaScript Syntax:  Functions*
 - Functions
 	- [[00800054 What are functions]]
 	- [[00800055 Function Declarations]]
@@ -95,3 +98,53 @@ Links:  [[008 Web development]]
 	- [[00800058 Default Parameters]]
 	- [[00800059 Return]]
 	- [[00800060 Helper Functions]]
+
+*Learn JavaScript Syntax:  Scope*
+-  Placeholder
+
+*Practice JavaScript Syntax:  Variables, Data Types, Conditionals, Functions*
+-  Placeholder
+
+*Number Guesser*
+-  Placeholder
+
+*Review:  JavaScript Syntax, Part 1*
+-  Placeholder
+
+---
+**JavaScript Syntax, Part II**
+*Introduction:  JavaScript Syntax, Part II*
+-  Placeholder
+
+*Learn JavaScript Syntax:  Arrays*
+-  Placeholder
+
+*Learn JavaScript Syntax:  Loops*
+-  Placeholder
+
+*Learn JavaScript Syntax:  Objects*
+-  Placeholder
+
+*Learn JavaScript Syntax:  Iterators*
+-  Placeholder
+
+*Learn JavaScript Syntax:  Errors and Debugging*
+-  Placeholder
+
+*Pair-Programming:  JavaScript Syntax Part I and II*
+-  Placeholder
+
+*Practice JavaScript Syntax:  Arrays, Loops, Objects, Iterators*
+-  Placeholder
+
+*Credit Card Checker*
+-  Placeholder
+
+*Mysterious Organism*
+-  Placeholder
+
+*Review:  JavaScript Syntax, Part II*
+-  Placeholder
+
+---
+**
