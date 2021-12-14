@@ -90,4 +90,8 @@ Links:  [[008 Web development]]
 - Functions
 	- [[00800054 What are functions]]
 	- [[00800055 Function Declarations]]
-	-
+	- [[00800056 Calling a Function]]
+	- [[00800057 Parameters and Arguments]]
+	- [[00800058 Default Parameters]]
+	- [[00800059 Return]]
+	- [[00800060 Helper Functions]]

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00800055 Function Declarations.md",
+            "file": "00800060 Helper Functions.md",
             "mode": "preview"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00800055 Function Declarations.md",
+            "file": "00800060 Helper Functions.md",
             "mode": "source"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00800055 Function Declarations.md",
+                "file": "00800060 Helper Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,17 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2834f6789dfac234",
+  "active": "c4107728d0015d7c",
   "lastOpenFiles": [
-    "00800055 Function Declarations.md",
+    "00800060 Helper Functions.md",
     "008000 Full-Stack Engineer Path from Codecademy.md",
-    "00800054 What are functions.md",
-    "00800054 Functions.md",
-    "00800052 Magic Eight Ball.md",
-    "00800053 Race Day.md",
-    "00800051 Recommended Reading.md",
-    "00800036 Recommended Reading.md",
-    "00800050 Quiz.md",
-    "00800049 Review.md"
+    "00800059 Return.md",
+    "00800058 Default Parameters.md",
+    "00800057 Parameters and Arguments.md",
+    "00800056 Calling a Function.md",
+    "00800055 Function Declarations.md",
+    "00800048 The switch keyword.md",
+    "0080004 Introduction - Getting Started with Full-Stack Engineering.md",
+    "00800054 What are functions.md"
   ]
 }
