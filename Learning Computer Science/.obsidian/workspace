@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "008000 Full-Stack Engineer Path from Codecademy.md",
+            "file": "00800067 Rock, Paper, or Scissors.md",
             "mode": "preview"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "008000 Full-Stack Engineer Path from Codecademy.md",
+            "file": "00800067 Rock, Paper, or Scissors.md",
             "mode": "source"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "008000 Full-Stack Engineer Path from Codecademy.md",
+                "file": "00800067 Rock, Paper, or Scissors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "2834f6789dfac234",
   "lastOpenFiles": [
+    "00800067 Rock, Paper, or Scissors.md",
     "008000 Full-Stack Engineer Path from Codecademy.md",
-    "008 Web development.md",
-    "000 Index.md",
-    "004 Programming languages, compilers, and text editors or IDEs.md",
-    "0043 Computer Science Path in Codecademy.md",
-    "00800060 Helper Functions.md",
-    "00800059 Return.md",
-    "00800058 Default Parameters.md",
-    "00800057 Parameters and Arguments.md",
-    "00800056 Calling a Function.md"
+    "00800066 Recommended Reading.md",
+    "00800051 Recommended Reading.md",
+    "00800065 Quiz.md",
+    "00800064 Review Functions.md",
+    "00800063 Concise Body Arrow Functions.md",
+    "00800062 Arrow Functions.md",
+    "00800061 Function Expressions.md",
+    "00800060 Helper Functions.md"
   ]
 }

@@ -98,6 +98,19 @@ Links:  [[008 Web development]]
 	- [[00800058 Default Parameters]]
 	- [[00800059 Return]]
 	- [[00800060 Helper Functions]]
+	- [[00800061 Function Expressions]]
+	- [[00800062 Arrow Functions]]
+	- [[00800063 Concise Body Arrow Functions]]
+	- [[00800064 Review Functions]]
+
+- Quiz
+	- [[00800065 Quiz]]
+
+- JavaScript and JQuery, Chapter 3
+	- [[00800066 Recommended Reading]]
+
+- Rock, Paper, or Scissors - Project
+	- [[00800067 Rock, Paper, or Scissors]]
 
 *Learn JavaScript Syntax:  Scope*
 -  Placeholder
