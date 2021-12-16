@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00800067 Rock, Paper, or Scissors.md",
+            "file": "00800068 Sleep Debt Calculator.md",
             "mode": "preview"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00800067 Rock, Paper, or Scissors.md",
+            "file": "00800068 Sleep Debt Calculator.md",
             "mode": "source"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00800067 Rock, Paper, or Scissors.md",
+                "file": "00800068 Sleep Debt Calculator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,17 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c4107728d0015d7c",
+  "active": "2834f6789dfac234",
   "lastOpenFiles": [
-    "00800067 Rock, Paper, or Scissors.md",
+    "00800068 Sleep Debt Calculator.md",
     "008000 Full-Stack Engineer Path from Codecademy.md",
+    "00800067 Rock, Paper, or Scissors.md",
     "00800066 Recommended Reading.md",
     "00800051 Recommended Reading.md",
     "00800065 Quiz.md",
     "00800064 Review Functions.md",
     "00800063 Concise Body Arrow Functions.md",
     "00800062 Arrow Functions.md",
-    "00800061 Function Expressions.md",
-    "00800060 Helper Functions.md"
+    "00800061 Function Expressions.md"
   ]
 }

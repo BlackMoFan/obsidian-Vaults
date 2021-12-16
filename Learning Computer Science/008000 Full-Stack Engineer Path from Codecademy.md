@@ -112,6 +112,9 @@ Links:  [[008 Web development]]
 - Rock, Paper, or Scissors - Project
 	- [[00800067 Rock, Paper, or Scissors]]
 
+- Sleep Debt Calculator
+	- [[00800068 Sleep Debt Calculator]]
+
 *Learn JavaScript Syntax:  Scope*
 -  Placeholder
 
