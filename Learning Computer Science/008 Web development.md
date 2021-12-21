@@ -7,6 +7,10 @@ Links: [[000 Index]]
 [[0081 Frontend]]
 [[0082 Backend]]
 
+## Development-tool-specific
+Flutter
+[[0083 Flutter]]
+
 ### other references
 [Web skills - andreasbm](https://andreasbm.github.io/web-skills/#architecture-and-paradigms)
 

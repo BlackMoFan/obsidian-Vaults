@@ -25,5 +25,15 @@ This is my index for Learning Computer Science Notes
 ---
 ## Data-related study
 (will edit if there are corrections on the order of learning path)
-(use letters)
+(use letters starting from "aaa")
 aaa - [[aaa Data Analytics]]
+
+---
+## Algorithms with their Time and Space Complexity
+(use letters starting from "bbb")
+bbb - [[bbb Sorting Algorithms]]
+
+---
+## Competitive Programming
+(use letters starting from "ccc")
+ccc - [[ccc Introduction]]
