@@ -116,7 +116,14 @@ Links:  [[008 Web development]]
 	- [[00800068 Sleep Debt Calculator]]
 
 *Learn JavaScript Syntax:  Scope*
--  Placeholder
+-  Scope
+	-  [[00800069 Scope]]
+	-  [[00800070 Blocks and Scope]]
+	-  [[00800071 Global Scope]]
+	-  [[00800072 Block Scope]]
+	-  [[00800073 Scope Pollution]]
+	-  [[00800074 Practice Good Scoping]]
+	-  
 
 *Practice JavaScript Syntax:  Variables, Data Types, Conditionals, Functions*
 -  Placeholder

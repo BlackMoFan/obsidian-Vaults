@@ -7,6 +7,14 @@ from *Practical Flutter:  Improve your Mobile Development with Google's Latest O
 ## Keypoints on Flutter
 - Flutter can be conceptualized as being comprised of:  **Dart platform**, **Flutter engine**, **Foundation library**, and **Widgets** (more info about each below)
 - Flutter is a platform where you can write a single code base that can work in both Android and iOS
+- A Flutter widget extends one of a handful of standard classes, classes which Flutter itself provides. The class extended determines what kind of widget we're dealing with at fundamental level.
+	- There are two that you'll use probably 99% of the time:
+
+		**StatelessWidget** and **StatefulWidget**
+
+	-   A widget that extends _StatelessWidget_ never changes and is called a stateless widget because it has no state. Things like Icon widgets, which display small images, and Text widgets, which of course display strings of text, are said to be stateless widgets.
+	-   By contrast, the *StatefulWidget* base class has the notion of state in it, i.e. it changes in some way when the user interacts with it.  A CheckBox, a Slider, a TextField, these are all well-known examples of stateful widgets
+	-   The core difference between a stateful and a stateless widget is that a stateless widget doesn’t automatically get re-rendered by the Flutter core framework when its “state” changes, whereas a stateful widget does.
 
 ---
 ### General Information on Flutter:  An Introduction
@@ -137,4 +145,5 @@ This last one is interesting because it’s actually a hierarchy of widgets: a C
 				}
 				
 	- It should be noted that the term "stateless" is a little bit of a misnomer (|*n*|.  a name that is wrong or not proper or appropriate) here because being Dart classes, which can have properties and data encapsulated in them, stateless widgets do, in a sense, have state.
+		- The core difference between a stateful and a stateless widget is that a stateless widget doesn’t automatically get re-rendered by the Flutter core framework when its “state” changes, whereas a stateful widget does=\
 		- 

@@ -3,6 +3,10 @@ This is my index for Learning Computer Science Notes
 [Outline of Computer Science from Wikipedia](https://en.wikipedia.org/wiki/Outline_of_computer_science)
 
 ---
+**Tip in making thesis:**
+>*"Here is my thesis and here are my reasons for holding it.  If you don't agree with my claim, then show me what is wrong with my argument, and I will reconsider my view, as any rational person should."*
+
+---
 ## Primary Area
 (will edit if there are corrections on the order of learning path)
 (use numbers)
@@ -20,7 +24,7 @@ This is my index for Learning Computer Science Notes
 012 - [[012 Artificial intelligence]]
 013 - [[013 Concurrent, parallel, and distributed systems]]
 014 - [[014 Theory of computation]]
-015 - [[Scientific computing]]
+015 - [[015 Scientific computing]]
 
 ---
 ## Data-related study

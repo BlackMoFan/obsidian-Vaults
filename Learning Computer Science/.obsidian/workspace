@@ -102,14 +102,14 @@
   "active": "4f510593273a7cf6",
   "lastOpenFiles": [
     "0083 Flutter.md",
-    "00831 Dart.md",
     "0042 Programming languages.md",
-    "008 Web development.md",
-    "000 Index.md",
     "004 Programming languages, compilers, and text editors or IDEs.md",
-    "00422 C.md",
-    "bbb Sorting Algorithms.md",
-    "aaa Data Analytics.md",
-    "aaaa - Getting Grounded on Analytics.md"
+    "000 Index.md",
+    "008 Web development.md",
+    "008000 Full-Stack Engineer Path from Codecademy.md",
+    "00800074 Practice Good Scoping.md",
+    "00800073 Scope Pollution.md",
+    "00800072 Block Scope.md",
+    "00800071 Global Scope.md"
   ]
 }
