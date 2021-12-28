@@ -123,10 +123,24 @@ Links:  [[008 Web development]]
 	-  [[00800072 Block Scope]]
 	-  [[00800073 Scope Pollution]]
 	-  [[00800074 Practice Good Scoping]]
-	-  
+	-  [[00800075 Review Scope]]
+
+- Quiz
+	- [[00800076 Quiz]]
+
+- Training Days - Project
+	- [[00800077 Training Days]]
 
 *Practice JavaScript Syntax:  Variables, Data Types, Conditionals, Functions*
--  Placeholder
+-  Code Challenges:  JavaScript Fundamentals
+	-  [[00800078 Introduction]]
+	-  [[00800079 canIVote()]]
+	-  [[00800080 agreeOrDisagree()]]
+	-  [[00800081 lifePhase()]]
+	-  [[00800082 finalGrade()]]
+	-  [[00800083 reportingForDuty()]]
+	-  [[00800084 Fix The Broken Code]]
+-  JavaScript Practice:  Data Types, Conditional, Functions
 
 *Number Guesser*
 -  Placeholder

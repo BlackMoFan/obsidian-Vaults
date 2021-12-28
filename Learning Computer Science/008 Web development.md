@@ -11,6 +11,9 @@ Links: [[000 Index]]
 Flutter
 [[0083 Flutter]]
 
+Angular
+[[0084 Angular]]
+
 ### other references
 [Web skills - andreasbm](https://andreasbm.github.io/web-skills/#architecture-and-paradigms)
 

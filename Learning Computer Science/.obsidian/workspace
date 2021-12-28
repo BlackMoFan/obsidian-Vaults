@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0083 Flutter.md",
+            "file": "008000 Full-Stack Engineer Path from Codecademy.md",
             "mode": "preview"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0083 Flutter.md",
+            "file": "008000 Full-Stack Engineer Path from Codecademy.md",
             "mode": "source"
           }
         },
@@ -65,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "fcd36d11c04e268d",
@@ -81,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0083 Flutter.md",
+                "file": "008000 Full-Stack Engineer Path from Codecademy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +102,15 @@
   },
   "active": "4f510593273a7cf6",
   "lastOpenFiles": [
-    "0083 Flutter.md",
-    "0042 Programming languages.md",
-    "004 Programming languages, compilers, and text editors or IDEs.md",
-    "000 Index.md",
-    "008 Web development.md",
     "008000 Full-Stack Engineer Path from Codecademy.md",
-    "00800074 Practice Good Scoping.md",
-    "00800073 Scope Pollution.md",
-    "00800072 Block Scope.md",
-    "00800071 Global Scope.md"
+    "00800084 Fix The Broken Code.md",
+    "00800083 reportingForDuty().md",
+    "00800082 finalGrade().md",
+    "00800081 lifePhase().md",
+    "00800080 agreeOrDisagree().md",
+    "00800079 canIVote().md",
+    "00800078 Introduction.md",
+    "00800077 Training Days.md",
+    "008 Web development.md"
   ]
 }
