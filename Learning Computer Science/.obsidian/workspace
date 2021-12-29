@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "008000 Full-Stack Engineer Path from Codecademy.md",
+            "file": "ccc Competitive Programmer's Handbook.md",
             "mode": "preview"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "008000 Full-Stack Engineer Path from Codecademy.md",
+            "file": "ccc Competitive Programmer's Handbook.md",
             "mode": "source"
           }
         },
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "008000 Full-Stack Engineer Path from Codecademy.md",
+                "file": "ccc Competitive Programmer's Handbook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,15 +102,15 @@
   },
   "active": "4f510593273a7cf6",
   "lastOpenFiles": [
-    "008000 Full-Stack Engineer Path from Codecademy.md",
-    "00800084 Fix The Broken Code.md",
-    "00800083 reportingForDuty().md",
-    "00800082 finalGrade().md",
-    "00800081 lifePhase().md",
-    "00800080 agreeOrDisagree().md",
-    "00800079 canIVote().md",
-    "00800078 Introduction.md",
-    "00800077 Training Days.md",
-    "008 Web development.md"
+    "ccc Competitive Programmer's Handbook.md",
+    "000 Index.md",
+    "004 Programming languages, compilers, and text editors or IDEs.md",
+    "bbb Sorting Algorithms.md",
+    "cccaaa C++ in CP.md",
+    "00423 C++.md",
+    "0042 Programming languages.md",
+    "0083 Flutter.md",
+    "00831 Dart.md",
+    "00422 C.md"
   ]
 }

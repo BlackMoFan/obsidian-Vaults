@@ -40,4 +40,4 @@ bbb - [[bbb Sorting Algorithms]]
 ---
 ## Competitive Programming
 (use letters starting from "ccc")
-ccc - [[ccc Introduction]]
+ccc - [[ccc Competitive Programmer's Handbook]]

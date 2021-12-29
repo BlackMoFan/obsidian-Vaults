@@ -4,7 +4,7 @@ Links:  [[008 Web development]]  [[0042 Programming languages]]
 from *Practical Flutter:  Improve your Mobile Development with Google's Latest Open-Source SDK* by Frank Zammeti
 
 ---
-## Keypoints on Flutter
+### Keypoints on Flutter
 - Flutter can be conceptualized as being comprised of:  **Dart platform**, **Flutter engine**, **Foundation library**, and **Widgets** (more info about each below)
 - Flutter is a platform where you can write a single code base that can work in both Android and iOS
 - A Flutter widget extends one of a handful of standard classes, classes which Flutter itself provides. The class extended determines what kind of widget we're dealing with at fundamental level.
