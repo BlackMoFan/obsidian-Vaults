@@ -6,10 +6,11 @@
       {
         "id": "c4107728d0015d7c",
         "type": "leaf",
+        "dimension": 48.924731182795696,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ccc Competitive Programmer's Handbook.md",
+            "file": "00800093 JavaScript Practice - Article.md",
             "mode": "preview"
           }
         },
@@ -18,10 +19,11 @@
       {
         "id": "4f510593273a7cf6",
         "type": "leaf",
+        "dimension": 51.075268817204304,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ccc Competitive Programmer's Handbook.md",
+            "file": "00800093 JavaScript Practice - Article.md",
             "mode": "source"
           }
         },
@@ -82,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ccc Competitive Programmer's Handbook.md",
+                "file": "00800093 JavaScript Practice - Article.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,15 +104,15 @@
   },
   "active": "4f510593273a7cf6",
   "lastOpenFiles": [
-    "ccc Competitive Programmer's Handbook.md",
-    "000 Index.md",
-    "004 Programming languages, compilers, and text editors or IDEs.md",
-    "bbb Sorting Algorithms.md",
-    "cccaaa C++ in CP.md",
-    "00423 C++.md",
-    "0042 Programming languages.md",
-    "0083 Flutter.md",
-    "00831 Dart.md",
-    "00422 C.md"
+    "00800093 JavaScript Practice - Article.md",
+    "008000 Full-Stack Engineer Path from Codecademy.md",
+    "00800092 toEmoticon().md",
+    "00800091 tipCalculator().md",
+    "00800090 Fix the broken code (round 2)!.md",
+    "00800089 howOld().md",
+    "00800088 sillySentence().md",
+    "00800087 numImaginaryFriends().md",
+    "00800086 truthOrFalsy().md",
+    "00800085 calculateWeight().md"
   ]
 }

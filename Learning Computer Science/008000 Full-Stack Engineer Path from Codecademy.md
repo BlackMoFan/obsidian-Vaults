@@ -140,7 +140,16 @@ Links:  [[008 Web development]]
 	-  [[00800082 finalGrade()]]
 	-  [[00800083 reportingForDuty()]]
 	-  [[00800084 Fix The Broken Code]]
+	-  [[00800085 calculateWeight()]]
+	-  [[00800086 truthOrFalsy()]]
+	-  [[00800087 numImaginaryFriends()]]
+	-  [[00800088 sillySentence()]]
+	-  [[00800089 howOld()]]
+	-  [[00800090 Fix the broken code (round 2)!]]
+	-  [[00800091 tipCalculator()]]
+	-  [[00800092 toEmoticon()]]
 -  JavaScript Practice:  Data Types, Conditional, Functions
+	-  [[00800093 JavaScript Practice - Article]]
 
 *Number Guesser*
 -  Placeholder
