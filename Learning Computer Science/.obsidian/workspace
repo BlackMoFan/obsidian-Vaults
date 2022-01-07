@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00800093 JavaScript Practice - Article.md",
+            "file": "00800094 Challenge Project - Number Guesser.md",
             "mode": "preview"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00800093 JavaScript Practice - Article.md",
+            "file": "00800094 Challenge Project - Number Guesser.md",
             "mode": "source"
           }
         },
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00800093 JavaScript Practice - Article.md",
+                "file": "00800094 Challenge Project - Number Guesser.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,15 +104,15 @@
   },
   "active": "4f510593273a7cf6",
   "lastOpenFiles": [
-    "00800093 JavaScript Practice - Article.md",
+    "00800094 Challenge Project - Number Guesser.md",
     "008000 Full-Stack Engineer Path from Codecademy.md",
+    "Challenge Project - Number Guesser.md",
+    "008 Web development.md",
+    "000 Index.md",
+    "00800093 JavaScript Practice - Article.md",
     "00800092 toEmoticon().md",
     "00800091 tipCalculator().md",
     "00800090 Fix the broken code (round 2)!.md",
-    "00800089 howOld().md",
-    "00800088 sillySentence().md",
-    "00800087 numImaginaryFriends().md",
-    "00800086 truthOrFalsy().md",
-    "00800085 calculateWeight().md"
+    "00800089 howOld().md"
   ]
 }

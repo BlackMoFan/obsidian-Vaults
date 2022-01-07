@@ -151,11 +151,11 @@ Links:  [[008 Web development]]
 -  JavaScript Practice:  Data Types, Conditional, Functions
 	-  [[00800093 JavaScript Practice - Article]]
 
-*Number Guesser*
--  Placeholder
+*Number Guesser - Project*
+-  [[00800094 Challenge Project - Number Guesser]]
 
 *Review:  JavaScript Syntax, Part 1*
--  Placeholder
+-  [[00800095 Review - JavaScript Syntax, Part 1]]
 
 ---
 **JavaScript Syntax, Part II**
