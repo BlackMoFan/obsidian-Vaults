@@ -160,7 +160,7 @@ Links:  [[008 Web development]]
 ---
 **JavaScript Syntax, Part II**
 *Introduction:  JavaScript Syntax, Part II*
--  Placeholder
+-  [[00800096 Introduction - JavaScript Syntax, Part 2]]
 
 *Learn JavaScript Syntax:  Arrays*
 -  Placeholder

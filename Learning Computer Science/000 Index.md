@@ -41,3 +41,8 @@ bbb - [[bbb Sorting Algorithms]]
 ## Competitive Programming
 (use letters starting from "ccc")
 ccc - [[ccc Competitive Programmer's Handbook]]
+
+---
+### terminologies and explanations
+(use letters starting from "ddd")
+ddd - [[ddd terminologies and explanations]]

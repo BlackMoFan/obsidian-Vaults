@@ -4,30 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "c4107728d0015d7c",
+        "id": "ddb180d8909a04f9",
         "type": "leaf",
-        "dimension": 48.924731182795696,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00800094 Challenge Project - Number Guesser.md",
+            "file": "ddd1 OOP.md",
             "mode": "preview"
           }
         },
-        "group": "e6d87fcdd5e30d55"
+        "group": "182ed946c6ff80b7"
       },
       {
-        "id": "4f510593273a7cf6",
+        "id": "5aa9909697605bc8",
         "type": "leaf",
-        "dimension": 51.075268817204304,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00800094 Challenge Project - Number Guesser.md",
+            "file": "ddd1 OOP.md",
             "mode": "source"
           }
         },
-        "group": "e6d87fcdd5e30d55"
+        "group": "182ed946c6ff80b7"
       }
     ],
     "direction": "vertical"
@@ -67,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "fcd36d11c04e268d",
@@ -84,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00800094 Challenge Project - Number Guesser.md",
+                "file": "ddd1 OOP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,17 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4f510593273a7cf6",
+  "active": "5aa9909697605bc8",
   "lastOpenFiles": [
-    "00800094 Challenge Project - Number Guesser.md",
-    "008000 Full-Stack Engineer Path from Codecademy.md",
-    "Challenge Project - Number Guesser.md",
-    "008 Web development.md",
+    "ddd1 OOP.md",
+    "ddd terminologies and explanations.md",
     "000 Index.md",
-    "00800093 JavaScript Practice - Article.md",
-    "00800092 toEmoticon().md",
-    "00800091 tipCalculator().md",
-    "00800090 Fix the broken code (round 2)!.md",
-    "00800089 howOld().md"
+    "bbb Sorting Algorithms.md",
+    "ccc Competitive Programmer's Handbook.md",
+    "00811120 Arrays.md",
+    "008111 Create a Front-End App with React from Codecademy.md",
+    "008000 Full-Stack Engineer Path from Codecademy.md",
+    "008 Web development.md",
+    "00800049 Review.md"
   ]
 }

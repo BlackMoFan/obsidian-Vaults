@@ -1,4 +1,5 @@
 Links:  [[008000 Full-Stack Engineer Path from Codecademy]]
+[[008111 Create a Front-End App with React from Codecademy]]
 # Kelvin Weather
 ---
 Deep in his mountain-side meteorology lab, the mad scientist Kelvin has mastered weather prediction.
