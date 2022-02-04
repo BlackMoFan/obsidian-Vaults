@@ -90,5 +90,16 @@ JavaScript Functions, Arrays, and Loops
 - Arrays
 	- Arrays
 		- [[00811120 Arrays]]
+		- [[00811121 Create an Array]]
+		- [[00811122 Accessing Elements]]
+		- [[00811123 Update Elements]]
+		- [[00811124 Arrays with let and const]]
+		- [[00811125 The .length property]]
+		- [[00811126 The .push() Method]]
+		- [[00811127 The .pop() Method]]
+		- [[00811128 More Array Methods]]
+		- [[00811129 Arrays and Functions]]
+		- [[00811130 Nested Arrays]]
+		- [[00811131 Review Arrays]]
 	- Secret Message - Project
 	- Arrays Quiz
