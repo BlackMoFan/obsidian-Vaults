@@ -68,7 +68,7 @@ JavaScript Functions, Arrays, and Loops
 		- [[00800053 Race Day]]
 	- Conditional Statements Quiz
 		- [[00800050 Quiz]]
-- Functions
+- *Functions*
 	- Functions
 		- [[00800054 What are functions]]
 		- [[00800055 Function Declarations]]
@@ -87,7 +87,7 @@ JavaScript Functions, Arrays, and Loops
 		- [[00800068 Sleep Debt Calculator]]
 	- Functions Quiz
 		- [00800065 Quiz]]
-- Arrays
+- *Arrays*
 	- Arrays
 		- [[00811120 Arrays]]
 		- [[00811121 Create an Array]]
@@ -102,4 +102,43 @@ JavaScript Functions, Arrays, and Loops
 		- [[00811130 Nested Arrays]]
 		- [[00811131 Review Arrays]]
 	- Secret Message - Project
+		- [[00811132 Secret Message - Project]]
 	- Arrays Quiz
+		- [[00811133 Quiz]]
+
+- *Loops*
+	- Loops
+		- [[00811134 Loops]]
+		- [[00811135 Repeating Tasks Manually]]
+		- [[00811136 The For Loop]]
+		- [[00811137 Looping in Reverse]]
+		- [[00811138 Looping through Arrays]]
+		- [[00811139 Nested Loops]]
+		- [[00811140 The While Loop]]
+		- [[00811141 Do...While Statements]]
+		- [[00811142 The break Keyword]]
+		- [[00811143 Review Loops]]
+	- Whale Talk - Project
+		- [[00811144 Whale Talk - Project]]
+	- Loops Quiz
+		- [[00811145 Quiz]]
+
+JavaScript Iterators, Objects, and Classes
+- *Iterators*
+	- Higher-Order Functions
+		- [[00811146 Higher-Order Functions]]
+		- [[00811147 Functions as Data]]
+	- Iterators
+	- Mini Linter
+	- Iterators Quiz
+- *Objects*
+	- Objects
+	- Advanced Objects
+	- Meal Maker - Project
+	- Team Stats - Project
+	- Objects Quiz
+- *Classes*
+	- Classes
+	- Build a Library
+	- School Catalogue - Project
+	- Classes Quiz
