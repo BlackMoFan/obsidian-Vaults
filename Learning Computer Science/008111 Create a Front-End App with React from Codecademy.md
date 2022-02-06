@@ -128,7 +128,11 @@ JavaScript Iterators, Objects, and Classes
 	- Higher-Order Functions
 		- [[00811146 Higher-Order Functions]]
 		- [[00811147 Functions as Data]]
+		- [[00811148 Functions as Parameters]]
+		- [[00811149 Review]]
 	- Iterators
+		- [[00811150 Introduction to Iterators]]
+		- [[00811151 The .forEach() Method]]
 	- Mini Linter
 	- Iterators Quiz
 - *Objects*

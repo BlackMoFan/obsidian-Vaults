@@ -25,3 +25,45 @@ In JavaScript, functions are _first class objects_. This means that, like other 
 Since functions are a type of object, they have properties such as `.length` and `.name` and methods such as `.toString()`. You can see more about the methods and properties of functions [in the documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function).
 
 Functions are special because we can invoke them, but we can still treat them like any other type of data. Let’s get some practice doing that!
+
+Initial Editor content:
+
+	const checkThatTwoPlusTwoEqualsFourAMillionTimes = () => {
+		for(let i = 1; i <= 1000000; i++) {
+			if ( (2 + 2) != 4) {
+				console.log('Something has gone very wrong :( ');
+			}
+		}
+	}
+
+	// Write your code below
+
+To do:
+1. We’ve defined a function with a very long name: `checkThatTwoPlusTwoEqualsFourAMillionTimes`. This function takes a long time to execute. It checks whether 2 + 2 = 4, but it does it a million times (just to be really sure)! Create a shorter-named variable, `is2p2` that will be easier to work with, and assign `checkThatTwoPlusTwoEqualsFourAMillionTimes` as its value.
+2. Invoke your `is2p2()` function
+3. Hmmm, if we forgot the original name of our function, is there a way we could figure it out? Use `is2p2` to `console.log()` the `name` property of the function we assigned to `is2p2`. Check out [the documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function) if you need a hint.
+
+Final Editor content:
+
+	const checkThatTwoPlusTwoEqualsFourAMillionTimes = () => {
+	  for(let i = 1; i <= 1000000; i++) {
+		if ( (2 + 2) != 4) {
+		  console.log('Something has gone very wrong :( ');
+		}
+	  }
+	}
+
+	// Write your code below
+	//1 assign the function to variable is2p2
+	const is2p2 = checkThatTwoPlusTwoEqualsFourAMillionTimes;
+
+	//2 Invoke/call is2p2
+	is2p2();
+
+	//3 using .name to the reassigned variable function
+	console.log(is2p2.name);
+	// console.log(is2p2.length);
+	// console.log(is2p2.toString());
+
+ Community Forums:
+[What are other uses of functions as data?](https://discuss.codecademy.com/t/what-are-other-uses-of-functions-as-data/376842)

@@ -6,11 +6,11 @@
       {
         "id": "ddb180d8909a04f9",
         "type": "leaf",
-        "dimension": 50.705128205128204,
+        "dimension": 50.83333333333333,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00811147 Functions as Data.md",
+            "file": "008111 Create a Front-End App with React from Codecademy.md",
             "mode": "preview"
           }
         },
@@ -19,11 +19,11 @@
       {
         "id": "5aa9909697605bc8",
         "type": "leaf",
-        "dimension": 49.294871794871796,
+        "dimension": 49.16666666666666,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00811147 Functions as Data.md",
+            "file": "008111 Create a Front-End App with React from Codecademy.md",
             "mode": "source"
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00811147 Functions as Data.md",
+                "file": "008111 Create a Front-End App with React from Codecademy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,17 +101,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5aa9909697605bc8",
+  "active": "ddb180d8909a04f9",
   "lastOpenFiles": [
-    "00811147 Functions as Data.md",
     "008111 Create a Front-End App with React from Codecademy.md",
+    "00811151 The .forEach() Method.md",
+    "00811150 Introduction to Iterators.md",
+    "00811149 Review.md",
+    "00811148 Functions as Parameters.md",
+    "00811147 Functions as Data.md",
     "00811146 Higher-Order Functions.md",
     "00811145 Quiz.md",
     "000 Index.md",
-    "004 Programming languages, compilers, and text editors or IDEs.md",
-    "0043 Computer Science Path in Codecademy.md",
-    "00811144 Whale Talk - Project.md",
-    "00811143 Review Loops.md",
-    "00811142 The break Keyword.md"
+    "004 Programming languages, compilers, and text editors or IDEs.md"
   ]
 }
