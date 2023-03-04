@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "960cbb6370fed28b",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ce1374099b3170d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a68ba10ef5ea8b5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data_Mining/02-27-2023 Lesson on Flask.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9a3a712665177e1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data_Mining/02-27-2023 Lesson on Flask.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e002cb9b439abd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "USCInfoSite/02-28-2023 Progress Report.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d563f92d0008141a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "USCInfoSite/03-01-2023 Progress Report.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bf1b7400b691fee9",
+    "type": "split",
+    "children": [
+      {
+        "id": "342076550c201e9c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c61edb08665afbb5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8c7c62692d415bad",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b01c6010989eda1b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f1b1aa497c443857",
+    "type": "split",
+    "children": [
+      {
+        "id": "7590b73aa8d004b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "151c5d29edc9d18f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "USCInfoSite/03-01-2023 Progress Report.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e75cd337bac21a24",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "USCInfoSite/03-01-2023 Progress Report.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a18d982a420f9cd9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fcc82ece4bfd98f9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "USCInfoSite/03-01-2023 Progress Report.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d563f92d0008141a",
+  "lastOpenFiles": [
+    "USCInfoSite/02-28-2023 Progress Report.md",
+    "USCInfoSite/03-01-2023 Progress Report.md",
+    "USCInfoSite/02-27-2023 Progress Report.md",
+    "Data_Mining/02-27-2023 Lesson on Flask.md",
+    "Data_Mining/Resources.md",
+    "Data_Mining",
+    "USCInfoSite/02-26-2023 Progress Report.md",
+    "USCInfoSite"
+  ]
+}
