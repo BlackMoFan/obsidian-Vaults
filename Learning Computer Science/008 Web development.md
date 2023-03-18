@@ -13,6 +13,9 @@ Flutter
 Angular
 [[0084 Angular]]
 
+NextJs
+[[Introduction]]
+
 ## Codecademy
 [[008000 Full-Stack Engineer Path from Codecademy]]
 [[008111 Create a Front-End App with React from Codecademy]]

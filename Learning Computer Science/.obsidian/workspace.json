@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5aa9909697605bc8",
+            "id": "8edcbe5f9ad3e638",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "004 Programming languages, compilers, and text editors or IDEs.md",
+                "file": "NextJS/Create a Next.js App/Create a Next.js App Continuation 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 297.5
   },
   "right": {
     "id": "fcd36d11c04e268d",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "004 Programming languages, compilers, and text editors or IDEs.md",
+                "file": "NextJS/Create a Next.js App/Create a Next.js App Continuation 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,13 +104,22 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "5aa9909697605bc8",
+  "active": "8edcbe5f9ad3e638",
   "lastOpenFiles": [
-    "000 Index.md",
-    "0043 Computer Science Path in Codecademy.md",
-    "004 Programming languages, compilers, and text editors or IDEs.md",
-    "001 About computers - general knowledge.md",
+    "NextJS/Introduction.md",
     "008 Web development.md",
+    "0081 Frontend.md",
+    "000 Index.md",
+    "Untitled.canvas",
+    "004 Programming languages, compilers, and text editors or IDEs.md",
+    "NextJS/Create a Next.js App/Create a Next.js App Continuation 2.md",
+    "NextJS/Create a Next.js App/Create a Next.js App Continuation 1.md",
+    "NextJS/Create a Next.js App/Imports.md",
+    "NextJS/Create a Next.js App/Create a Next.js App Intro.md",
+    "NextJS/Create a Next.js App",
+    "NextJS",
+    "0043 Computer Science Path in Codecademy.md",
+    "001 About computers - general knowledge.md",
     "ddd terminologies and explanations.md",
     "0041 Text editors.md",
     "0083 Flutter.md",
