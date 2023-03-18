@@ -1,76 +1,39 @@
 {
   "main": {
-    "id": "960cbb6370fed28b",
+    "id": "939be274808ba1c3",
     "type": "split",
     "children": [
       {
-        "id": "0ce1374099b3170d",
+        "id": "d3a8f6889c5b3261",
         "type": "tabs",
         "children": [
           {
-            "id": "a68ba10ef5ea8b5c",
+            "id": "0fe5f73b8738907c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data_Mining/02-27-2023 Lesson on Flask.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9a3a712665177e1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data_Mining/02-27-2023 Lesson on Flask.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3e002cb9b439abd7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "USCInfoSite/02-28-2023 Progress Report.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d563f92d0008141a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "USCInfoSite/03-01-2023 Progress Report.md",
+                "file": "Mechanical Engineering/Definition.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "bf1b7400b691fee9",
+    "id": "6a25811d321b4c3d",
     "type": "split",
     "children": [
       {
-        "id": "342076550c201e9c",
+        "id": "930ddaafee8abb5d",
         "type": "tabs",
         "children": [
           {
-            "id": "c61edb08665afbb5",
+            "id": "00aac433b220e544",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -80,7 +43,7 @@
             }
           },
           {
-            "id": "8c7c62692d415bad",
+            "id": "d2944f0a7616592f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -95,7 +58,7 @@
             }
           },
           {
-            "id": "b01c6010989eda1b",
+            "id": "1fc135605601eef1",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -109,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "f1b1aa497c443857",
+    "id": "fec4244877ff6248",
     "type": "split",
     "children": [
       {
-        "id": "7590b73aa8d004b2",
+        "id": "3cf896f7582e46e0",
         "type": "tabs",
         "children": [
           {
-            "id": "151c5d29edc9d18f",
+            "id": "f911dec6e2991bf6",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USCInfoSite/03-01-2023 Progress Report.md",
+                "file": "Mechanical Engineering/Definition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,19 +97,19 @@
             }
           },
           {
-            "id": "e75cd337bac21a24",
+            "id": "5313d7c97d6581cd",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USCInfoSite/03-01-2023 Progress Report.md",
+                "file": "Mechanical Engineering/Definition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "a18d982a420f9cd9",
+            "id": "7865ab834cfcc174",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -157,12 +120,12 @@
             }
           },
           {
-            "id": "fcc82ece4bfd98f9",
+            "id": "a166a21778c88db6",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "USCInfoSite/03-01-2023 Progress Report.md"
+                "file": "Mechanical Engineering/Definition.md"
               }
             }
           }
@@ -183,16 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c61edb08665afbb5",
+  "active": "0fe5f73b8738907c",
   "lastOpenFiles": [
-    "Untitled",
-    "USCInfoSite/02-28-2023 Progress Report.md",
-    "USCInfoSite/03-01-2023 Progress Report.md",
-    "USCInfoSite/02-27-2023 Progress Report.md",
-    "Data_Mining/02-27-2023 Lesson on Flask.md",
-    "Data_Mining/Resources.md",
-    "Data_Mining",
-    "USCInfoSite/02-26-2023 Progress Report.md",
-    "USCInfoSite"
+    "Electrical Engineering/Definition.md",
+    "Materials Science/Definition.md",
+    "Computer Science/Definition.md",
+    "Robotics/Definition.md",
+    "Mechanical Engineering/Definition.md",
+    "Materials Science",
+    "Computer Science",
+    "Robotics",
+    "Electrical Engineering",
+    "Mechanical Engineering"
   ]
 }

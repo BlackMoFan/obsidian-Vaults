@@ -1,0 +1,1 @@
+This field studies the properties, behavior, and structure of materials, including metals, polymers, and composites, which are important in the design and manufacture of robotic components.

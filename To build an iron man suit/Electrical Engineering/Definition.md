@@ -1,0 +1,1 @@
+This field focuses on the design, development, and testing of electrical systems, including circuits, control systems, and power systems.

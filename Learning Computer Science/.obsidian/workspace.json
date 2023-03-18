@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 Index.md",
-                "mode": "preview",
+                "file": "004 Programming languages, compilers, and text editors or IDEs.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 Index.md",
+                "file": "004 Programming languages, compilers, and text editors or IDEs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,9 +106,9 @@
   },
   "active": "5aa9909697605bc8",
   "lastOpenFiles": [
+    "000 Index.md",
     "0043 Computer Science Path in Codecademy.md",
     "004 Programming languages, compilers, and text editors or IDEs.md",
-    "000 Index.md",
     "001 About computers - general knowledge.md",
     "008 Web development.md",
     "ddd terminologies and explanations.md",
