@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NextJS/Create a Next.js App/Create a Next.js App Continuation 1.md",
+                "file": "NextJS/Create a Next.js App/Create a Next.js App Continuation 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NextJS/Create a Next.js App/Create a Next.js App Continuation 1.md",
+                "file": "NextJS/Create a Next.js App/Create a Next.js App Continuation 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,7 @@
   },
   "active": "8edcbe5f9ad3e638",
   "lastOpenFiles": [
+    "NextJS/Create a Next.js App/Create a Next.js App Continuation 1.md",
     "NextJS/Introduction.md",
     "008 Web development.md",
     "0081 Frontend.md",
@@ -113,7 +114,6 @@
     "Untitled.canvas",
     "004 Programming languages, compilers, and text editors or IDEs.md",
     "NextJS/Create a Next.js App/Create a Next.js App Continuation 2.md",
-    "NextJS/Create a Next.js App/Create a Next.js App Continuation 1.md",
     "NextJS/Create a Next.js App/Imports.md",
     "NextJS/Create a Next.js App/Create a Next.js App Intro.md",
     "NextJS/Create a Next.js App",
